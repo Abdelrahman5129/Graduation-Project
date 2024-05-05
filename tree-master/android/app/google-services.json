@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "126352083066",
+    "firebase_url": "https://grad-bba94-default-rtdb.firebaseio.com",
+    "project_id": "grad-bba94",
+    "storage_bucket": "grad-bba94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126352083066:android:1f7375b0c25ec613e113c3",
+        "android_client_info": {
+          "package_name": "com.example.tree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3zhJfCH3zhSegPgXj7mPv5x9J-K5zxnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
